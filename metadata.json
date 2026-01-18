@@ -1,0 +1,8 @@
+
+{
+  "name": "Instructor Matched",
+  "description": "A marketplace connecting driving instructors with pupils. Learners can submit lesson requests, and instructors use a credit-based system to respond to enquiries and grow their business.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
