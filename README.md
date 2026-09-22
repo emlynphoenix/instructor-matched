@@ -1,6 +1,5 @@
 <a id="readme-top"></a>
 
-<!-- PROJECT SHIELDS -->
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -8,7 +7,6 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-<!-- PROJECT LOGO -->
 <br />
 <div align="center">
 
@@ -26,7 +24,7 @@
   </p>
 </div>
 
-<!-- TABLE OF CONTENTS -->
+
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -51,7 +49,7 @@
   </ol>
 </details>
 
-<!-- ABOUT THE PROJECT -->
+
 ## About The Project
 
 Instructor Matched is a full-stack marketplace connecting learner drivers with driving instructors. Instructors create profiles listing their availability, pricing, teaching style and ADI qualification. Students search for instructors by postcode and request contact with those covering their area.
@@ -75,44 +73,7 @@ The initial site structure was scaffolded using the Gemini API, with the data mo
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- GETTING STARTED -->
-## Getting Started
 
-To get a local copy up and running, follow these steps.
-
-### Prerequisites
-
-* Node.js and npm
-  ```sh
-  npm install npm@latest -g
-  ```
-* A Firebase project with Firestore and Authentication enabled
-* A Gemini API key
-
-### Installation
-
-1. Clone the repo
-   ```sh
-   git clone https://github.com/emlynphoenix/instructor-matched.git
-   ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
-3. Create a `.env.local` file in the project root and add your keys:
-   ```
-   GEMINI_API_KEY=your_gemini_api_key
-   FIREBASE_API_KEY=your_firebase_api_key
-   FIREBASE_PROJECT_ID=your_firebase_project_id
-   ```
-4. Run the app
-   ```sh
-   npm run dev
-   ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- USAGE EXAMPLES -->
 ## Usage
 
 1. Create an account as either a **student** or an **instructor**
@@ -122,7 +83,6 @@ To get a local copy up and running, follow these steps.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ROADMAP -->
 ## Roadmap
 
 - [ ] Deploy to production
@@ -133,7 +93,6 @@ See the [open issues](https://github.com/emlynphoenix/instructor-matched/issues)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTRIBUTING -->
 ## Contributing
 
 This is currently a personal project, but suggestions are welcome — feel free to open an issue with the tag "enhancement" or fork the repo and submit a pull request.
@@ -146,14 +105,12 @@ This is currently a personal project, but suggestions are welcome — feel free 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTACT -->
 ## Contact
 
 Emlyn Phoenix - emlynphoenix1@gmail.com
